@@ -44,3 +44,7 @@ Tang, Y., Wang, X., Miao, X., Gao, S., Li, B., & Peng, Z. (2023). Optimum design
 ## License
 
 This code is provided for educational and research purposes. Please refer to the original paper for any usage restrictions or additional permissions.
+
+## Copyright
+
+Copyright © 2024 Ahmad Faisal Mohamad Ayob. All rights reserved.
