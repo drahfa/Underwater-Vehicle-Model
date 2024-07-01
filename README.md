@@ -17,7 +17,7 @@ The code demonstrates the geometric description of an underwater vehicle hull as
 ## Usage
 
 1. Ensure you have MATLAB installed on your system.
-2. Copy the code into a new MATLAB script file (e.g., `hull_profile.m`).
+2. Copy the code into a new MATLAB script file (e.g., `HullGeometry.m`).
 3. Run the script in MATLAB.
 
 The script will generate a plot showing the underwater vehicle hull profile based on the initial values and equations provided in the paper.
